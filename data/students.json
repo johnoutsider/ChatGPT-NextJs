@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Alice Johnson", "age": 20, "grade": "A"},
+  {"id": 2, "name": "Bob Smith", "age": 19, "grade": "B"},
+  {"id": 3, "name": "Charlie Brown", "age": 21, "grade": "C"},
+  {"id": 4, "name": "Dana White", "age": 22, "grade": "B"},
+  {"id": 5, "name": "Evan Davis", "age": 20, "grade": "A"},
+  {"id": 6, "name": "Fiona Green", "age": 23, "grade": "A"},
+  {"id": 7, "name": "George Hill", "age": 19, "grade": "C"},
+  {"id": 8, "name": "Hannah Lee", "age": 21, "grade": "B"},
+  {"id": 9, "name": "Ian Miller", "age": 22, "grade": "B"},
+  {"id": 10, "name": "Julia Nolan", "age": 20, "grade": "A"}
+]
